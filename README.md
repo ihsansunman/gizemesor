@@ -1,3 +1,3 @@
 # gizemesor
 
-PeterAnswers sitesinin türkçesi
+PeterAnswers sitesinin Türkçe'leştirilmiş versiyonudur.
